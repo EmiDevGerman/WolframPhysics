@@ -58,7 +58,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         if (id == R.id.action_settings) {
             AlertDialog.Builder ad = new AlertDialog.Builder(MainActivity.this);
             ad.setTitle("Info");
-            ad.setMessage("Diese App wurde von Emre entwickelt mit dem Ziel euch einfach Physik zu erklären.. :)");
+            ad.setMessage("Diese App wurde von Emre, Teo und Timo entwickelt mit dem Ziel euch einfach Physik zu erklären! :)");
             ad.show();
         }
 
