@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="10dp"
+        android:fontFamily="@font/cambay"
+        android:text="Newton legte die Kraft wie folgt fest: Kraft ist das Produkt aus Masse und Beschleunigung: F = m • a"
+        android:textColor="@android:color/background_dark"
+        android:textSize="18sp" />
+
+
+</RelativeLayout>
